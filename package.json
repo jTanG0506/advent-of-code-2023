@@ -2,6 +2,7 @@
   "name": "advent-of-code-2023",
   "version": "1.0.0",
   "scripts": {
-    "day-1-part-1": "ts-node day-1/part-1.ts"
+    "day-1-part-1": "ts-node day-1/part-1.ts",
+    "day-1-part-2": "ts-node day-1/part-2.ts"
   }
 }
