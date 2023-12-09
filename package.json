@@ -18,6 +18,7 @@
     "day-7-part-2": "ts-node day-7/part-2.ts",
     "day-8-part-1": "ts-node day-8/part-1.ts",
     "day-8-part-2": "ts-node day-8/part-2.ts",
-    "day-9-part-1": "ts-node day-9/part-1.ts"
+    "day-9-part-1": "ts-node day-9/part-1.ts",
+    "day-9-part-2": "ts-node day-9/part-2.ts"
   }
 }
